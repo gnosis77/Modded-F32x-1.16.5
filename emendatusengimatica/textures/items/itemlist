@@ -56,7 +56,7 @@ bronze_crushed.png
 ~bronze_ingot.png
 ~bronze_nugget.png
 ~bronze_plate.png
-bronze_rod.png
+~bronze_rod.png
 cast_iron_dust.png
 cast_iron_gear.png
 cast_iron_ingot.png
@@ -127,7 +127,7 @@ cobalt_gravel.png
 cobalt_ingot.png
 cobalt_nugget.png
 cobalt_plate.png
-cobalt_rod.png
+~cobalt_rod.png
 cobalt_shard.png
 coke_dust.png
 coke_gem.png
@@ -147,7 +147,7 @@ copper_gravel.png
 ~copper_ingot.png
 ~copper_nugget.png
 ~copper_plate.png
-copper_rod.png
+~copper_rod.png
 diamond_chunk.png
 diamond_clump.png
 diamond_cluster.png
@@ -198,7 +198,7 @@ enderium_crushed.png
 ~enderium_ingot.png
 ~enderium_nugget.png
 ~enderium_plate.png
-enderium_rod.png
+~enderium_rod.png
 ender_dust.png
 enigmatic_hammer.png
 fluix_dust.png
@@ -264,7 +264,7 @@ iron_cluster.png
 ~iron_gear.png
 ~iron_nugget.png
 ~iron_plate.png
-iron_rod.png
+~iron_rod.png
 lapis_chunk.png
 lapis_clump.png
 lapis_cluster.png
@@ -295,7 +295,7 @@ lumium_crushed.png
 ~lumium_ingot.png
 ~lumium_nugget.png
 ~lumium_plate.png
-lumium_rod.png
+~lumium_rod.png
 nebu_clump.png
 nebu_crushed.png
 nebu_crystal.png
@@ -416,7 +416,7 @@ signalum_crushed.png
 ~signalum_ingot.png
 ~signalum_nugget.png
 ~signalum_plate.png
-signalum_rod.png
+~signalum_rod.png
 silicon_gem.png
 ~silver_chunk.png
 silver_clump.png
@@ -438,7 +438,7 @@ steel_crushed.png
 ~steel_ingot.png
 ~steel_nugget.png
 ~steel_plate.png
-steel_rod.png
+~steel_rod.png
 sulfur_chunk.png
 sulfur_clump.png
 sulfur_cluster.png
