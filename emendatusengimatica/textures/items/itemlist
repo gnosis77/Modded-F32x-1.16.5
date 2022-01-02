@@ -49,7 +49,7 @@ brass_gear.png
 ~brass_ingot.png
 ~brass_nugget.png
 brass_plate.png
-brass_rod.png
+~brass_rod.png
 bronze_crushed.png
 ~bronze_dust.png
 ~bronze_gear.png
@@ -178,7 +178,7 @@ electrum_crushed.png
 ~electrum_ingot.png
 ~electrum_nugget.png
 ~electrum_plate.png
-electrum_rod.png
+~electrum_rod.png
 emerald_chunk.png
 emerald_clump.png
 emerald_cluster.png
@@ -201,8 +201,8 @@ enderium_crushed.png
 ~enderium_rod.png
 ender_dust.png
 enigmatic_hammer.png
-fluix_dust.png
-fluix_gem.png
+~fluix_dust.png
+~fluix_gem.png
 fluorite_chunk.png
 fluorite_clump.png
 fluorite_cluster.png
